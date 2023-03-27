@@ -3499,6 +3499,7 @@ input, select, textarea {
 		text-align: center;
 		padding: 1em;
 		letter-spacing: 20px;
+		clip-path: polygon(16% 0, 100% 0%, 87% 100%, 0% 100%);
 
 		font: normal 2em 'Nixie One', Helvetica, Arial;
 		color: #EEDDE0;
